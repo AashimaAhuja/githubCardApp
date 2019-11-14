@@ -1,2 +1,0 @@
-# githubCardApp
-Created with CodeSandbox

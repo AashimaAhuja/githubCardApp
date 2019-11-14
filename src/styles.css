@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Card {
+  display: flex;
+  margin: 1rem;
+}
+.Card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 8px;
+}
+.name {
+  font-size: 18px;
+  font-weight: 700;
+  padding-bottom: 8px;
+}
