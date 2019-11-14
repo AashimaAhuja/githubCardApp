@@ -11,6 +11,7 @@ export const Form = props => {
     console.log(resp.data.name);
 
     props.addProfile({
+      id: resp.data.id,
       name: resp.data.name,
       comapny: resp.data.comapny,
       image: resp.data.avatar_url

@@ -6,16 +6,19 @@ import "./styles.css";
 
 const test_data = [
   {
+    id: 1,
     name: "Aashima",
     company: "Booking",
     image: "https://avatars3.githubusercontent.com/u/19411796?v=4"
   },
   {
+    id: 2,
     name: "Naman",
     company: "Adobe",
     image: "https://avatars0.githubusercontent.com/u/810438?v=4"
   },
   {
+    id: 3,
     name: "Felix",
     company: "Facebook",
     image: "https://avatars3.githubusercontent.com/u/4426?v=4"
